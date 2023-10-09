@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.38122621.css","mappings":"AACA,iBACE,wBAAyB,CACzB,YACF","sources":["App.css"],"sourcesContent":["/* src/App.css */\r\n.gray-background {\r\n  background-color: #7796b9; /* Gray background color */\r\n  padding: 20px; /* Add padding for spacing */\r\n}\r\n"],"names":[],"sourceRoot":""}
