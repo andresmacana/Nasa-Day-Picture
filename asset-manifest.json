@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.38122621.css",
-    "main.js": "/static/js/main.dfbeac8f.js",
-    "index.html": "/index.html",
-    "main.38122621.css.map": "/static/css/main.38122621.css.map",
-    "main.dfbeac8f.js.map": "/static/js/main.dfbeac8f.js.map"
+    "main.css": "/Nasa-Day-Picture/static/css/main.38122621.css",
+    "main.js": "/Nasa-Day-Picture/static/js/main.55f066b8.js",
+    "index.html": "/Nasa-Day-Picture/index.html",
+    "main.38122621.css.map": "/Nasa-Day-Picture/static/css/main.38122621.css.map",
+    "main.55f066b8.js.map": "/Nasa-Day-Picture/static/js/main.55f066b8.js.map"
   },
   "entrypoints": [
     "static/css/main.38122621.css",
-    "static/js/main.dfbeac8f.js"
+    "static/js/main.55f066b8.js"
   ]
 }
