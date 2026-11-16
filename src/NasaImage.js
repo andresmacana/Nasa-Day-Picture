@@ -11,7 +11,7 @@ function NasaImage() {
     const fetchData = async () => {
       try {
         const response = await axios.get(
-          "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"
+          "https://science.nasa.gov/wp-json/wp/v2/apod-basic",
         );
         setNasaData(response.data);
         setLoading(false);
